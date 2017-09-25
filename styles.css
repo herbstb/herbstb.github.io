@@ -1,0 +1,14 @@
+#wrapper{
+	margin: 0 auto;
+	width:70%;
+}
+h1{
+	font-family: sans-serif;
+	color: red;
+	font-size: 4em;
+}
+h3{
+	font-family: sans-serif;
+	color: gray;
+	font-size: 1em;
+}
